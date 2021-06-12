@@ -1,0 +1,14 @@
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1 style="margin: 0;font-size: 100px;padding-top: 25px;"><center>Yakında Yapılacaktır.</center></h1>
+    <p><a href="../index.html" style="font-size: 50px;color:#fb2274;"><center>Geri Dön</center></a></p>
+</body>
+</html>
